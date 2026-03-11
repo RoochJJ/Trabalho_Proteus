@@ -27,13 +27,14 @@ J2/J3	1	Conector de Saída	Terminal Block
 
 
 Esquemático e Design
-[Esquemático do Circuito](Image01.png)
+
+![Esquemático do Circuito](Image01.png)  
 
 ## ⚡ PCB Layout (80mm x 40mm)
-![Layout da Placa](Image03.png)
+![Vista 3D](Image03.png)  
 
 ## 📦 Modelo 3D
-![Vista 3D](Image02.png)
+![Layout da Placa](Image02.png)
 
 
 
