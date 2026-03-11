@@ -35,3 +35,11 @@ Retificação: A ponte de diodos (BR1) converte a corrente alternada (AC) em cor
 Filtragem: O capacitor C1 suaviza a onda pulsante, enquanto C2 e C3 eliminam ruídos de alta frequência.
 
 Regulação: O CI 7812 garante que a saída permaneça em 12V constantes, independente de variações na entrada ou na carga.
+
+
+🔧 Como usar
+Conecte a saída de um transformador (sugerido: 15V AC ou 18V AC) ao conector J1.
+
+A tensão regulada de 12V DC estará disponível nos terminais de saída.
+
+Atenção: Se for exigir correntes próximas a 1A, instale um dissipador de calor no regulador U1.
