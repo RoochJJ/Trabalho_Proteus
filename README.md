@@ -43,6 +43,8 @@ Abaixo, a representação tridimensional do projeto finalizado, mostrando a disp
 ![Vista 3D do Projeto](Image03.png)
 
 
+![Vista 3D do Projeto](Image04.png)
+
 
 O projeto foi dividido em três etapas principais:
 
