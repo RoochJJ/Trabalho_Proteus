@@ -28,13 +28,19 @@ J2/J3	1	Conector de Saída	Terminal Block
 
 Esquemático e Design
 
+O circuito utiliza uma ponte retificadora, filtragem com capacitor eletrolítico de $1000\mu F$ e o regulador de tensão
 ![Esquemático do Circuito](Image01.png)  
 
 ## ⚡ PCB Layout (80mm x 40mm)
-![Vista 3D](Image03.png)  
+## ⚡ 2. Layout da PCB
+O layout foi otimizado para o formato 8x4cm, garantindo trilhas adequadas para a corrente e espaçamento seguro entre os componentes.
 
-## 📦 Modelo 3D
-![Layout da Placa](Image02.png)
+
+![Layout da Placa](Image02.png)  
+📦 3. Visualização 3D
+Abaixo, a representação tridimensional do projeto finalizado, mostrando a disposição dos componentes e conectores.
+
+![Vista 3D do Projeto](Image03.png)
 
 
 
