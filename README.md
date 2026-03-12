@@ -13,7 +13,8 @@ Proteção/Indicação: LED indicador de funcionamento na saída.
 
 Dimensões da PCB: 40mm x 50mm
 
-🛠 Componentes Utilizados
+🛠 Componentes Utilizados: 
+
 BR1	         1	Ponte   Retificadora  	BRIDGE
 C1	1	Capacitor Eletrolítico	         1000μF
 C2, C3	2	Capacitor  Cerâmico/Poliéster	100nF
